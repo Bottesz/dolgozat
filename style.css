@@ -1,0 +1,48 @@
+body{
+	background-image:url("kepek/black.png");
+	text-align:justify;
+	font-family:Arial, Verdana, sans-serif;
+	color:beige;
+	font-size:10px;
+}
+
+#tarolo{
+	width:90%;
+	max-width:900px;
+	margin:auto;
+	background-color: rgb(255,255,255)
+	
+
+.jobb{
+	width: 400px;
+	float: right;
+
+}
+
+
+
+
+
+#nav{
+	color: white;
+	font-weight: bold;
+	font-size:10px;
+	padding:10px;
+	border:1px white;
+	display:inline-block;
+	background-color:darkgrey;
+}
+	
+h1{ 
+	text-indent:20px
+}
+
+.torles{
+	clear:both;
+	
+}
+
+	
+il{ 
+		list-style-type: square;
+}
